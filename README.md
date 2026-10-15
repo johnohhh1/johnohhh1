@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm John 👋</h1>
+<h1 align="center">Hey, I'm Johnohhh1 👋</h1>
 
 <p align="center">
   <b>I build the tools I wish existed</b>: desktop AI apps on Linux, cheap ARM boards brought back to life, Bluetooth gadgets, and software that makes running a restaurant less painful.
