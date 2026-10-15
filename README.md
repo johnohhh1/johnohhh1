@@ -1,6 +1,6 @@
 # Hi, I'm John 👋
 
-I build small tools that scratch my own itch: getting desktop AI apps running on Linux, poking at cheap Allwinner hardware, fire-service tech, and the odd game. They're all free to use. Issues and pull requests are welcome on any of them.
+I build small tools that scratch my own itch: getting desktop AI apps running on Linux, poking at cheap Allwinner hardware, Bluetooth gadgets, restaurant operations, fire-service tech, and the odd game. They're all free to use. Issues and pull requests are welcome on any of them.
 
 ## 🐧 AI apps on Linux
 
@@ -39,6 +39,19 @@ I build small tools that scratch my own itch: getting desktop AI apps running on
 | [adb-helper](https://github.com/johnohhh1/adb-helper) | A small ADB helper for SoC picture-frame tablets |
 | [adb-remote-directional-bar](https://github.com/johnohhh1/adb-remote-directional-bar) | On-screen directions and buttons over ADB for when the touchscreen dies |
 | [advanced-adb-manual](https://github.com/johnohhh1/advanced-adb-manual) | A comprehensive guide to Android Debug Bridge |
+| [ble-radar-hunt](https://github.com/johnohhh1/ble-radar-hunt) | Find a lost Bluetooth device (hearing aid, earbud, tag) by signal strength: Android radar app + Python tools |
+| [ringclient](https://github.com/johnohhh1/ringclient) | Read-only BLE research client for smart ring protocol analysis |
+
+## 🍽️ Restaurant operations
+
+| Repo | What it does |
+|---|---|
+| [labor-card-checker](https://github.com/johnohhh1/labor-card-checker) | Checks HotSchedules Labor Card PDFs for staffing-rule problems and returns marked-up cards |
+| [hotschedules-toolkit](https://github.com/johnohhh1/hotschedules-toolkit) | Bulk-downloads HotSchedules reports; turns Forecast vs Scheduled into where-to-cut/add-hours |
+| [gfs-invoice-breakdown](https://github.com/johnohhh1/gfs-invoice-breakdown) | Turns GFS purchase orders and MenuLink cost journals into categorized Excel breakdowns |
+| [restaurant-sales-forecast](https://github.com/johnohhh1/restaurant-sales-forecast) | Zero-shot daily sales forecasts with TimesFM 2.5, with P10/P90 bands and 4-week period rollups |
+| [steak-probe-wireless](https://github.com/johnohhh1/steak-probe-wireless) | Thin modular wireless steak thermometer for restaurant kitchens (nRF52840 + app) |
+| [pdf-report-utils](https://github.com/johnohhh1/pdf-report-utils) | Small helpers for folders of printed reports, like a safe duplicate-print cleaner |
 
 ## 🚒 Fire service
 
